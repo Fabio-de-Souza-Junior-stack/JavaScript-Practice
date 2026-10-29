@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-image: url("imagens/omar-ramadan-vcRHpfrsaL8-unsplash.jpg");
+    background-size: auto 375%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h1{
+    color:rgba(0, 2, 119, 0.993);
+}
+.nome-destaque {
+    color: rgba(0, 2, 119, 0.993);
+    text-decoration: underline;
+}
